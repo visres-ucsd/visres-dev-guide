@@ -32,7 +32,7 @@ In addition, the knowledge that someone will review your code may have the tende
 
 Version control software allows us to keep a history of changes for a set of files, and perform related actions such as compare versions. More information can be found [here](https://www.geeksforgeeks.org/version-control-systems/).
 
-Code for specific studies should have its own repository.
+Code for specific studies within the Shiley Eye Institute should have its own repository, as should reused code. However, careful attention should be paid to security - please read [the following guide]
 
 ## Contributing
 
