@@ -1,4 +1,4 @@
-# Shiley Eye Institute - Development Guide
+# Vision Research - Development Guide
 
 The purpose of this repository is to document best practices that individuals and teams should undertake when writing code as part of UCSD vision research.
 
