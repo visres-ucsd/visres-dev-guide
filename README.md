@@ -4,9 +4,9 @@ The purpose of this repository is to document a set of agreed-upon development p
 
 ## How this is being made
 
-This guide will be developed by collaborative effort over time. Anyone involved with Vision Research using code is encouraged to contribute to this document, by submitting feedback and questions as GitHub issues (or contributions by making pull requests).
+This guide will be developed by collaborative effort over time. Anyone involved in writing code for vision research at UCSD is encouraged to contribute to this document, by submitting feedback and questions as GitHub issues (or contributions by making pull requests).
 
-It is acknowledged that the goal in our research context is generally not to produce production-ready, evergreen code for large teams, in the way it might be for industry software teams. Suggestions made here should therefore be restricted to high-yield practices that will noticeably increase productivity of small research teams/individuals, and allow code that is more reliable and reproducible.
+It is acknowledged that the goal in our context is generally not to produce production-ready, evergreen code for large teams. Suggestions made here should therefore be restricted to high-yield practices that will noticeably increase productivity of small research teams/individuals, and allow code that is more reliable and reproducible. We should also monitor how effective these approaches, and be open to changing them in response to this.
 
 ## General Principles
 
