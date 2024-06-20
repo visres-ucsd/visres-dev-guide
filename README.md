@@ -16,9 +16,9 @@ We will also have internal meetings to do broader-scope reviews and discussion o
 
 ### Writing good code
 
-'Writing good code' is a large topic, and what to learn next about it varies with current skill level. As such, the advice here is simply that the aim of writing clean code is taken into consideration for each activity.
+This is a large topic, and the advice useful to a given individual will depend on their experience. The key personal check for everyone, therefore, is simply that the aim of writing clean code is kept in-mind whenever you are writing.
 
-For those less familiar with how to do this, check out [these tips](/guides/high-yield-code-quality-advice.MD). For more experienced developers in the team, please reference the [style guide](/guides/general-style-guide.MD), which will help us improve internal consistency.
+Some high-level tips for writing easy-to-read code are given [here](/guides/high-yield-code-quality-advice.MD). For more extensive projects, please also refer to the UCSD [style guide](/guides/general-style-guide.MD).
 
 ### Code review
 
