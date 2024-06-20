@@ -39,7 +39,3 @@ In addition, the knowledge that someone will review your code may have the tende
 Version control software allows us to keep a history of changes for a set of files, and perform related actions such as compare versions. More information can be found [here](https://www.geeksforgeeks.org/version-control-systems/).
 
 Code for specific studies within the Shiley Eye Institute should have its own repository, as should reused code. However, careful attention should be paid to security: please read [this guide](/guides/security-in-git-repos.MD) before initializing a new repo.
-
-## Contributing to this guide
-
-This is an ongoing effort. Anyone involved, or beginning to get involved, with coding in the Shiley Eye Institute should feel welcome to contribute. Questions or suggestions should be made through the issues tab in this GitHub repo, or by submitting a pull request.
