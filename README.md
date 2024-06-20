@@ -10,6 +10,8 @@ Researchers should follow these general principles for all code-writing activiti
 2. Use [code reviews](#code-review) for all code with published results.
 3. Use [version control](#version-control) for each distinct project.
 
+We will also have internal meetings to do broader-scope reviews and discussion of code.
+
 ## Details
 
 ### Writing good code
