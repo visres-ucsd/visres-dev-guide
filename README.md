@@ -2,7 +2,7 @@
 
 The purpose of this repository is to document a set of agreed-upon development practices that individuals and teams should use when writing code as part of UCSD vision research.
 
-## How this is being made
+## How this guide is being made
 
 This guide will be developed by collaborative effort over time. Anyone involved in writing code for vision research at UCSD is encouraged to contribute to this document, by submitting feedback and questions as GitHub issues (or contributions by making pull requests).
 
